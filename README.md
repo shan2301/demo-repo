@@ -1,3 +1,6 @@
 # Trial
 
 Random text!
+<<<<<<< HEAD
+=======
+
